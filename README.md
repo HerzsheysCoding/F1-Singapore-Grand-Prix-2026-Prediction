@@ -1,4 +1,4 @@
-# F1 Win Probability ML / DL — Singapore Grand Prix 
+# F1 Win Probability Machine Learning — Singapore Grand Prix 
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/Model-LambdaMART%20%2F%20LightGBM-brightgreen.svg)](https://lightgbm.readthedocs.io/)
