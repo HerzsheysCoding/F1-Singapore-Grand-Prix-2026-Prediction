@@ -4,7 +4,7 @@
 [![LightGBM](https://img.shields.io/badge/Model-LambdaMART%20%2F%20LightGBM-brightgreen.svg)](https://lightgbm.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An end-to-end Machine Learning ranking and win-probability pipeline for Formula 1 races, calibrated specifically for high-downforce street circuits (Marina Bay Street Circuit).
+With the upcoming 2026 Singapore Grand Prix, here is my predictions on who will win!
 
 ---
 
