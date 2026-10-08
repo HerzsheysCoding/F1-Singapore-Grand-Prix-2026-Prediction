@@ -36,10 +36,8 @@ $$P(\text{Win}_i) = \frac{e^{\hat{s}_i / T}}{\sum_{k=1}^{N} e^{\hat{s}_k / T}}$$
 ```text
 Driver                    Grid    Win Probability
 -----------------------------------------------------------
-Andrea Kimi Antonelli     P1      27.4%  ██████████████
-Max Verstappen            P2      23.8%  ████████████
-Lando Norris              P3      19.1%  ██████████
-George Russell            P4      14.5%  ███████
-Charles Leclerc           P5       9.2%  █████
-Lewis Hamilton            P6       4.5%  ██
-Other Grid Entries        P7+      1.5%  █
+Andrea Kimi Antonelli    (P1) :  66.8% | █████████████████████████████████
+Max Verstappen           (P2) :  22.9% | ███████████
+Lando Norris             (P3) :   9.2% | ████
+George Russell           (P4) :   0.6% | 
+Charles Leclerc          (P5) :   0.3% |
